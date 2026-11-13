@@ -18,4 +18,4 @@ Before publishing:
 - Confirm whether the location and school details should be public.
 
 This first version intentionally does not invent projects, GitHub details, CGPA, or skill levels for C/C++/Java/Python.
-The page uses HTML and CSS only; JavaScript can be added later as a learning milestone.
+The page uses HTML, CSS, and lightweight vanilla JavaScript for staggered scroll reveals and a reading progress indicator. Version 1.3 adds a luminous gradient outline and glow halo behind the profile photo.
